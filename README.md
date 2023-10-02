@@ -1,5 +1,7 @@
 ## Layout Test
 
+Visit the live site at: https://layout-test.fly.dev/
+
 This is a simple layout test for a responsive cross-platform application.
 
 The application uses CSS variables for easier theming and responsive design. The styles are divided into:
