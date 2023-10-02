@@ -1,4 +1,4 @@
-##Layout Test
+## Layout Test
 
 This is a simple layout test for a responsive cross-platform application.
 
