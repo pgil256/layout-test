@@ -32,9 +32,9 @@
     display: flex;
     flex-direction: row;
     align-items: stretch;
-    padding: 3rem;
-    background-color: var(--primary-bg);
     padding: 1rem;
+    margin-top:1rem;
+    background-color: var(--primary-bg);
   }
 
   .left-side,
